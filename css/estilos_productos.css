@@ -20,7 +20,7 @@ h3{
 	font-family: 'Dancing Script', cursive;
 	padding-top: 20px;
 	padding-right: 40px;
-	font-size: 1em;
+	font-size: 1.2em;
 	color: white;
 	display: inline;
 	float: right;
@@ -44,7 +44,7 @@ h3{
 
 .c1{
 	background-color: #5b7989;
-	min-height: 100px;
+	min-height: 100%;
 	width: 100%;
 	border-radius: 10px 10px  0px 0px;
 }
